@@ -1,0 +1,6 @@
+1,English -Dr Vijay,0
+2,Physics -Dr Kishore Babu,0
+3,Chemistry -Dr Durga Prasad,0
+4,Mathematics -Dr Vara Prasad,0
+5,Computer Science -Dr Hema,10
+6,Biology -Dr Rani,17

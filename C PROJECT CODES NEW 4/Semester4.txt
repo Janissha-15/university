@@ -1,0 +1,7 @@
+13,Algorithms -Dr Sujit,30,3,8
+14,Database Management Systems -Dr Janissha,30
+15,Operating Systems -Dr Sumaithri,30
+16,Software Engineering -Dr Vinay,30,8
+17,Computer Networks -Dr Vishal,30,1,2
+18,Artificial Intelligence -Dr Abhilash,30
+19,Machine Learning -Dr Saritha,30

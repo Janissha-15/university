@@ -1,0 +1,6 @@
+7,Mathematics -Dr Hemanth,2,4,1
+8,Data Structures -Dr David,25,4
+9,Digital Logic Design -Dr Isley,24
+10,Discrete Mathematics -Dr Vijayram,25
+11,Electronics -Dr Joseph,27
+12,Environmental Studies -Dr Amit,24,6
